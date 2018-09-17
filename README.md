@@ -1,4 +1,4 @@
-# Spring-MVC-with-Hibernate-CRUD
+# Spring with Hibernate
 Easy and well define spring mvc configuration with ORM hibernate, Project Management Tool Maven and Client Side Programming Language Javascript's plugin JQuery in widely used Integrated Development Environment (IDE) Tool Eclipse Luna
 
 Step By Process About the Project.
@@ -34,3 +34,21 @@ Steps For the project.
 -	Package called servicesimpl also create in  the java files to implements the services implemention for the users 
 -	With local host which is the tomcat server we go on execution this coding which were design in the eclipse process.
 -	Final words the project used for the Used defined process.
+
+
+
+Commands used in the Project
+-	Commands used in the Pom.Xml are 
+1.	Project
+2.	Modelversion
+3.	Groupid 
+4.	artifactId 
+5.	packaging 
+6.	version
+7.	name 
+8.	URL
+9.	Properties
+10.	Java version
+11.	Org.springframework- version
+12.	Dependencies
+13.	Dependency
